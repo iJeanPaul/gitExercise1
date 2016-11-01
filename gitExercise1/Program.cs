@@ -19,6 +19,9 @@ namespace gitExercise1
             Console.WriteLine("Added Line 04 for another commit");
             Console.WriteLine("Added Line 05 for another commit");
             Console.WriteLine("Added Line 06 for another commit");
+
+            Console.WriteLine();
+            Console.WriteLine("Added a final line to commit in Main");
         }
     }
 }
