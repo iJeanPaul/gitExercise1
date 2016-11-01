@@ -12,6 +12,9 @@ namespace gitExercise1
         {
             Console.WriteLine("hello from Main!");
             MyClass.hello();
+            Console.WriteLine("Added Line 01 for testing commit");
+            Console.WriteLine("Added Line 02 for testing commit");
+            Console.WriteLine("Added Line 03 for testing commit");
         }
     }
 }
